@@ -10,14 +10,7 @@
 - Spam risk heuristic
 - JSON export
 - 100% legal OSINT
-
-## Installation
-```bash
-git clone https://github.com/YOURNAME/phonespectre
-cd phonespectre
-chmod +x install.sh
-./install.sh
-
+- 
 Usage
 phonespectre +14155552671
 phonespectre +919876543210 -o report.json
@@ -25,3 +18,10 @@ phonespectre +919876543210 -o report.json
 Disclaimer
 
 Public OSINT only. No tracking or hacking.
+
+## Installation
+```bash
+git clone https://github.com/CzaxStudio/PhoneSpectre
+cd PhoneSpectre
+chmod +x install.sh
+./install.sh
